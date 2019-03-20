@@ -32,3 +32,6 @@ git config --global user.name "Sravani"
 git config --global user.email "sravani.devineni379@gmail.com"
 git commit
 git init
+git init
+cd \C:\SPB_Data
+git push origin master
